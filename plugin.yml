@@ -1,0 +1,12 @@
+name: AntiPO
+main: me.heahaidu.vietfod.Main
+version: 1.0
+author: Heahaidu_VN
+commands:
+  antipo:
+      description: 
+      usage: /<command>
+  reload:
+      description: /antipo reload
+      usage: /<command>
+      aliases: [rl]  

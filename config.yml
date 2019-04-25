@@ -1,0 +1,10 @@
+AntiPerm:
+  enable: true
+  Perm: 
+    - '*'
+AntiOP:
+  enable: true
+whitelist: true #cho phép những người trong whitelist được op với mọi perm
+Command: 'ban %player% :L'
+Message:
+  Reload: '&eĐã tải lại plugin'
